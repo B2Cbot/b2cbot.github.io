@@ -1,0 +1,12 @@
+{
+    "serverUrl": "https://portal.wcp.ai/gateway",
+    "botToken": "b3c407a4-e099-43fa-bae5-88c7ab1ad8fd",
+    "botName": "oX5ObG5gQ8ixyN9GEuh2vEuQ",
+    "channelType": "webchat",
+    "maxHistoryDays": 10,
+    "launcherIconUrl": "",
+    "defaultLocation": {
+        "lat": 40.194215,
+        "lng": -8.510631
+    }
+}
