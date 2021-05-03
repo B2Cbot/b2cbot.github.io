@@ -1,5 +1,5 @@
 {
-    "serverUrl": "https://dev.wit-software.com/botengine",
+    "serverUrl": "https://portal.wcp.ai/gateway",
     "botToken": "tUcvN8DhKpfv4FKfzAnrlHKvSlfpm7XV",
     "botName": "aEuOBM4x6Q7aZ7IvHrJ3yBQ",
     "channelType": "webchat",
@@ -59,17 +59,4 @@
         "welcome_screen_button_title": "Get Started"
     }
 }
-
-/*{
-    "serverUrl": "https://portal.wcp.ai/gateway",
-    "botToken": "b3c407a4-e099-43fa-bae5-88c7ab1ad8fd",
-    "botName": "oX5ObG5gQ8ixyN9GEuh2vEuQ",
-    "channelType": "webchat",
-    "maxHistoryDays": 10,
-    "launcherIconUrl": "",
-    "defaultLocation": {
-        "lat": 40.194215,
-        "lng": -8.510631
-    }
-}*/
 
