@@ -1,7 +1,5 @@
 {
     "serverUrl": "https://portal.wcp.ai/gateway",
-    //"botToken": "b3c407a4-e099-43fa-bae5-88c7ab1ad8fd",
-    //"botName": "oX5ObG5gQ8ixyN9GEuh2vEuQ",
     "botToken": "f384e1e5-b4cd-4eb1-b7e4-b261fb89e08b",
     "botName": "LEeLGBw30QPiaGSIOxxVJ4g",
     "channelType": "webchat",
